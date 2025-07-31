@@ -1,0 +1,10 @@
+ 1 - ESCOLHAM UM TEMA (EX: RESTAURANTE, LOJA DE ROUPAS, BARBEARIA ETC...)
+ 2 - CRIEM UM NOME PARA ESTE NEGÓCIO.
+ 3 - CRIEM UM REPOSITÓRIO - ABRA NO VS CODE.
+ 4 - CRIEM A PASTA DE IMAGENS E DOIS ARQUIVOS EM HTML(ex: pag1.html e pag2.html).
+ 5 - SALVEM 5 imagens de acordo com o seu nicho e insira na pasta de imagens.
+ 6 - Construa duas páginas de conteúdos, com imagens clicaveis, títulos, parágrafos e botões.
+ 7 - As páginas precisam se conectar através de um botão ou texto. 
+
+ * É necessário ter a TAG de âncora em pelo menos em uma imagem, botão e título *
+
