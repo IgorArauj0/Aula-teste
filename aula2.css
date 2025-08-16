@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+   background-color: black; /*cor de fundo*/
+   display: flex; /*itens lado a lado*/
+   justify-content: center; /*Justificando os itens*/
+   align-items: center; /*alinhamento vertical*/
+}
+
+.img-header {
+    width: 200px;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
