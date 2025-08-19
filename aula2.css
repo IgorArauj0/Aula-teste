@@ -19,3 +19,32 @@ h1 {
     color: white;
     font-size: 40px;
 }
+
+.section-01 {
+    background-image: url(imagens/milky-way-9767930_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /*Cor de fundo da sessão 015*/
+    padding: 150px; /*respiro interno da sessão*/
+    display: flex; /*deixando os itens lado a lado*/
+    justify-content: center; /*justificando/organizando os itens horizontal*/
+    align-items: center; /*alinhamento vertical*/
+}
+.img-section-01 { /*classe utilizad nas imagens*/
+ width: 350px; /*Largura da imagem*/
+}
+.paragrafo-section { /*Classe utilizada nos parágrafo*/
+    color: white; /*cor da letra*/
+    font-size: 40px; /*tamanho da letra*/
+}
+
+
+
+.section-02 {
+    background-color: rgb(125, 124, 124);
+    padding: 20px; /*respiro interno da sessão*/
+    display: flex; /*deixando os itens lado a lado*/
+    justify-content: center; /*justificando/organizando os itens horizontal*/
+    align-items: center; /*alinhamento vertical*/
+}
+
