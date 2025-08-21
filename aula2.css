@@ -5,7 +5,7 @@
 
 
 header {
-   background-color: black; /*cor de fundo*/
+   background-color: #0a3740; /*cor de fundo*/
    display: flex; /*itens lado a lado*/
    justify-content: center; /*Justificando os itens*/
    align-items: center; /*alinhamento vertical*/
@@ -21,10 +21,7 @@ h1 {
 }
 
 .section-01 {
-    background-image: url(imagens/milky-way-9767930_1280.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat; /*Cor de fundo da sessão 015*/
+    background-color: #258a60;
     padding: 150px; /*respiro interno da sessão*/
     display: flex; /*deixando os itens lado a lado*/
     justify-content: center; /*justificando/organizando os itens horizontal*/
@@ -48,3 +45,23 @@ h1 {
     align-items: center; /*alinhamento vertical*/
 }
 
+
+.section-03 {
+    background-image: url(imagens/sea-7102124_1280.jpg); /*Inserir a imagem (não esquecer da URL)*/
+    background-position: center; /*Ele cuida do posicionamento da imagem*/
+    background-repeat: no-repeat; /*Aqui estamos desabilitando a repetição da imagem de fundo*/
+    background-size: cover; /*Preenchimento total da imagem na sessão*/
+    background-attachment: fixed; /*Utilizado para deixar a imagem fixa*/
+    padding: 150px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-03 button {
+    padding: 10px;
+    background-color: #032919;
+    color: white;
+    width: 200px;
+}
