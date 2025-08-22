@@ -54,9 +54,9 @@ h1 {
     background-attachment: fixed; /*Utilizado para deixar a imagem fixa*/
     padding: 150px;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   display: flex; /*tornando item Flex*/
+   justify-content: center; /*alinhamento horizontal*/
+   align-items: center; /*alinhamento vertical*/
 }
 
 .section-03 button {
@@ -65,3 +65,21 @@ h1 {
     color: white;
     width: 200px;
 }
+
+footer {
+    background-color: #258a60; /*cor de fundo*/
+    display: flex; /*propriedade flex*/
+    justify-content: center; /*justificando conteúdo/horizontal*/
+    align-items: center; /*alinhamento vertical*/
+    gap: 50px; /*brecha entre os itens*/
+    padding: 35px;
+}
+
+.img-footer {
+    width: 150px;
+}
+
+
+/* criar novo repositório */
+/* Construir site de imobiliária */
+/* fazer seguindo o mesmo template */
