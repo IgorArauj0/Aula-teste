@@ -66,6 +66,42 @@ h1 {
     width: 200px;
 }
 
+.section-04 {
+    background-color: #258a6080;
+    padding: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.div-section {
+    width: 300px;
+    height: 350px;
+    background-color: rgba(39, 22, 97, 0.678);
+    text-align: center; /*alinhar text*/
+    padding: 15px; /*espaçamento interno*/
+    color: rgb(255, 255, 255); /**/
+}
+
+.div-section h2 {
+    font-size: 30x; /*tamanho text*/
+}
+
+.div-section p {
+    font-weight:800; /*peso da letra*/
+    margin-top: 30px; /*espaçamento superior*/
+    line-height: 20px; /*distancia entre as linhas*/
+}
+
+.div-section button {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    margin-top: 30px;
+}
+
 footer {
     background-color: #258a60; /*cor de fundo*/
     display: flex; /*propriedade flex*/
